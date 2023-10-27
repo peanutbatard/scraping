@@ -1,0 +1,936 @@
+team,nom,type,pays,age,sexe,ceinture,groupe_age,groupe_poids,inscriptions_cate_confirmees,inscriptions_cate_nonconfirmees,snapshot_date
+(no academy),hugo vannier,no gi,france,22.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-27
+academie pythagore,franck geslin,gi,france,43.0,homme,violette,master 3 (41+),"-82,3 kg (middle)",1,0,2023-10-27
+academie pythagore,julien guillet,gi,france,46.0,homme,violette,master 4 (46+),-76 kg (light),1,0,2023-10-27
+academie pythagore,petru alesandrini,gi,france,46.0,homme,violette,master 3 (41+),"-94,3 kg (heavy)",1,0,2023-10-27
+academie pythagore,tristan vassal,no gi,france,25.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+acsn,iwen chevalier,no gi,france,22.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+acsn,robin flanet,no gi,france,19.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,4,2023-10-27
+apc29,aymeric gandiol,gi,france,28.0,homme,blanche,adult,"-94,3 kg (heavy)",4,0,2023-10-27
+apc29,aymeric gandiol,no gi,france,28.0,homme,blanche,adult,"-91,5 kg (heavy)",3,1,2023-10-27
+apc29,islahidine mohamed,no gi,france,20.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+apc29,serhii borysov,no gi,ukraine,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+arjjb- bretagne,harutyun brutyan,gi,armenia,19.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+arjjb- bretagne,harutyun brutyan,no gi,armenia,19.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+arjjb- bretagne,johnny krainski,no gi,france,32.0,homme,blanche,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+arjjb- bretagne,jonathan pinard,gi,france,24.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+arjjb- bretagne,jonathan pinard,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+arjjb- bretagne,jordan vorn,no gi,france,18.0,homme,blanche,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+arjjb- bretagne,thibaut cros,gi,france,38.0,homme,blanche,master 2 (36+),"-82,3 kg (middle)",1,1,2023-10-27
+association lavalloise d’arts martiaux,abdulraouf kiki,no gi,syria,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+association lavalloise d’arts martiaux,adam bouras,no gi,algeria,19.0,homme,blanche,adult,"+97,5 kg (ultra heavy)",1,2,2023-10-27
+association lavalloise d’arts martiaux,lény cupit-caro,no gi,france,19.0,homme,blanche,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+brazilian sport club,aurélie navoret,gi,france,45.0,femme,blanche,master 3 (41+),"+79,3 kg (super heavy)",1,0,2023-10-27
+brazilian sport club,gaetan boeuf-zouaillec,gi,france,18.0,homme,blanche,adult,-64 kg (light feather),6,0,2023-10-27
+brazilian sport club,gaetan boeuf-zouaillec,no gi,france,18.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+brazilian sport club,lionel navoret,gi,france,49.0,homme,bleue,master 4 (46+),-70 kg (feather),2,0,2023-10-27
+brazilian sport club,louise penin,gi,france,15.0,femme,blanche,junior,"-65,0 kg (middle heavy)",1,0,2023-10-27
+fight club brevinnois,nathan genevois,no gi,france,17.0,homme,blanche,junior no gi,"-66,5 kg (light)",4,3,2023-10-27
+gant hermine vannetais,david medar,no gi,france,30.0,homme,blanche,master 1 (30+),"-85,5 kg (medium heavy)",2,0,2023-10-27
+gant hermine vannetais,julien corvaisier,gi,france,28.0,homme,bleue,adult,"-94,3 kg (heavy)",3,0,2023-10-27
+gant hermine vannetais,julien corvaisier,no gi,france,28.0,homme,bleue,adult,"-91,5 kg (heavy)",1,0,2023-10-27
+gf team france,alexandre louyrette,gi,france,44.0,homme,marron/noire,master 2 (36+),"-88,3 kg (medium heavy)",1,0,2023-10-27
+hors normes bjj rennes,abdullah magomedov,gi,france,16.0,homme,blanche,juniors,"-64,0 kg (feather)",2,2,2023-10-27
+hors normes bjj rennes,abdullah magomedov,no gi,france,16.0,homme,blanche,junior no gi,"-61,5 kg (feather)",3,0,2023-10-27
+hors normes bjj rennes,antoine beauclair,gi,france,18.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+hors normes bjj rennes,christmann benoit,gi,france,42.0,homme,bleue,master 3 (41+),"+100,5 kg (ultra heavy)",1,0,2023-10-27
+hors normes bjj rennes,corentin cahen,gi,france,33.0,homme,bleue,master 1 (30+),"-82,3 kg (middle)",2,0,2023-10-27
+hors normes bjj rennes,daniial abdulov,no gi,france,26.0,homme,bleue,adult,"-73,5 kg (light)",3,0,2023-10-27
+hors normes bjj rennes,djibril ahmed hasan,gi,france,18.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-27
+hors normes bjj rennes,djibril ahmed hasan,no gi,france,18.0,homme,blanche,adult,"-55,5 kg (rooster)",1,1,2023-10-27
+hors normes bjj rennes,eric châtelet,gi,france,23.0,homme,violette,adult,"+100,5 kg (ultra heavy)",1,0,2023-10-27
+hors normes bjj rennes,evan journet,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,2,2023-10-27
+hors normes bjj rennes,ilan david,gi,france,16.0,homme,blanche,juniors,"-69,0 kg (light)",2,1,2023-10-27
+hors normes bjj rennes,ilan david,no gi,france,16.0,homme,blanche,junior no gi,"-66,5 kg (light)",4,3,2023-10-27
+hors normes bjj rennes,jean minot,gi,france,21.0,homme,blanche,adult,-64 kg (light feather),6,0,2023-10-27
+hors normes bjj rennes,jules maury,no gi,france,21.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+hors normes bjj rennes,loris pellois,no gi,france,22.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+hors normes bjj rennes,louison paty,gi,france,28.0,homme,bleue,adult,-76 kg (light),2,2,2023-10-27
+hors normes bjj rennes,nasroullah cabdou,gi,france,18.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+hors normes bjj rennes,pierre olivier,gi,france,26.0,homme,blanche,adult,-64 kg (light feather),6,0,2023-10-27
+hors normes bjj rennes,victor de buck,gi,france,27.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-27
+hors normes bjj rennes,wasim tafasca,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,2,2023-10-27
+hors normes bjj rennes,wasim tafasca,no gi,france,16.0,homme,blanche,junior no gi,"-71,5 kg (middle)",4,0,2023-10-27
+icon jiu jitsu team,aurélien lefillastre,gi,france,28.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-27
+icon jiu jitsu team,benjamin costa,gi,france,34.0,homme,blanche,master 1 (30+),-70 kg (feather),2,0,2023-10-27
+icon jiu jitsu team,emmanuel esnol chaurin,gi,france,35.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+icon jiu jitsu team,nathan gardet,gi,france,33.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+icon jiu jitsu team,oscar gicquel,gi,france,21.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+icon jiu jitsu team,stephane guilloteau,gi,france,52.0,homme,bleue,master 5 (51+),"-88,3 kg (medium heavy)",1,0,2023-10-27
+jjb fight club impact ploeren,lewellyn loxq guingueno,gi,france,29.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+jjb fight club impact ploeren,lewellyn loxq guingueno,no gi,france,29.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+judo plaisir 56,antoine le solliec,gi,france,53.0,homme,bleue,master 5 (51+),-70 kg (feather),1,0,2023-10-27
+judo plaisir 56,antoine le solliec,no gi,france,53.0,homme,bleue,master 5 (51+),"-67,5 kg (feather)",1,0,2023-10-27
+judo plaisir 56,lénaïc le solliec,gi,france,17.0,femme,bleue,junior,-69 kg (heavy),1,0,2023-10-27
+judo plaisir 56,lénaïc le solliec,no gi,france,17.0,femme,bleue,juvenile 1,"-66,5 kg (heavy)",1,0,2023-10-27
+judo plaisir 56,mathurin ligot,no gi,france,33.0,homme,bleue,master 1 (30+),"+97,5 kg (ultra heavy)",1,0,2023-10-27
+judo plaisir 56,matthieu boidin,gi,france,27.0,homme,bleue,adult,"-94,3 kg (heavy)",3,0,2023-10-27
+judo plaisir 56,morgane le solliec,gi,france,15.0,femme,blanche,junior,"-56,5 kg (light)",1,1,2023-10-27
+judo plaisir 56,morgane le solliec,no gi,france,15.0,femme,blanche,juvenile 1,"-54,5 kg (light)",1,0,2023-10-27
+judo plaisir 56,yann rouxel,no gi,france,55.0,homme,bleue,master 5 (51+),"-79,5 kg (middle)",1,0,2023-10-27
+kabuto,martin gouyette,gi,france,32.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+kabuto,martin gouyette,no gi,france,32.0,homme,blanche,master 1 (30+),"-79,5 kg (middle)",3,0,2023-10-27
+kabuto fight team,joan le bescond,gi,france,25.0,homme,blanche,adult,"-88,3 kg (medium heavy)",2,1,2023-10-27
+kabuto fight team,joan le bescond,no gi,france,25.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,4,2023-10-27
+maccabi paris,tom paugam,no gi,france,22.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+mb academy,romain calvez,gi,france,26.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+mb academy,romain calvez,no gi,france,26.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+mkteam,titouan bian,gi,france,17.0,homme,bleue,juniors,"-64,0 kg (feather)",1,0,2023-10-27
+mkteam,titouan bian,no gi,france,17.0,homme,bleue,junior no gi,"-61,5 kg (feather)",1,0,2023-10-27
+mkteam rennes,alex clément,gi,france,16.0,homme,blanche,juniors,"-58,5 kg (light feather)",2,1,2023-10-27
+mkteam rennes,antoine gautrain,gi,france,26.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+mkteam rennes,antoine gautrain,no gi,france,26.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+mkteam rennes,clément nebout,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+mkteam rennes,damien le morvan,gi,france,30.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+mkteam rennes,eden dheilly montreer,gi,france,18.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+mkteam rennes,eden dheilly montreer,no gi,france,18.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+mkteam rennes,emile geley,no gi,france,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+mkteam rennes,hadrien robin,no gi,france,22.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+mkteam rennes,izenah denais,no gi,france,22.0,femme,blanche,adult,"-66,5 kg (middle)",1,0,2023-10-27
+mkteam rennes,jean pinel,gi,france,35.0,homme,blanche,master 1 (30+),"-88,3 kg (medium heavy)",3,1,2023-10-27
+mkteam rennes,jules rongier,no gi,france,24.0,homme,blanche,adult,"-97,5 kg (super heavy)",2,0,2023-10-27
+mkteam rennes,mathys gautrain,gi,france,23.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+mkteam rennes,maxime theault,gi,france,18.0,homme,blanche,adult,-64 kg (light feather),6,0,2023-10-27
+mkteam rennes,noam aubergeon,gi,france,23.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+mkteam rennes,pierre sandrin,no gi,france,21.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+mkteam rennes,salakhouddin saytakhanov,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,2,2023-10-27
+mkteam rennes,simon chataignère,no gi,france,21.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+mkteam rennes,ylian amrioui,gi,france,18.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+moka team 443,alexandre carmona,gi,france,31.0,homme,blanche,adult,"-94,3 kg (heavy)",4,0,2023-10-27
+moka team 443,alexis cherubin,gi,france,23.0,homme,blanche,adult,"-100,5 kg (super heavy)",1,0,2023-10-27
+moka team 443,alvin mottais,gi,france,15.0,homme,blanche,juniors,"-64,0 kg (feather)",2,2,2023-10-27
+moka team 443,alvin mottais,no gi,france,15.0,homme,blanche,junior no gi,"-61,5 kg (feather)",3,0,2023-10-27
+moka team 443,antoine frappier,gi,france,21.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+moka team 443,brunet victor,gi,france,31.0,homme,blanche,master 1 (30+),-64 kg (light feather),2,0,2023-10-27
+moka team 443,chamilkhan papaev,no gi,russia,16.0,homme,blanche,junior no gi,"-66,5 kg (light)",4,3,2023-10-27
+moka team 443,damien juan,gi,france,31.0,homme,violette,master 1 (30+),-76 kg (light),1,1,2023-10-27
+moka team 443,gaël cadic,gi,france,48.0,homme,bleue,master 4 (46+),"-94,3 kg (heavy)",1,0,2023-10-27
+moka team 443,gaëtan gommelet,gi,france,36.0,homme,marron/noire,master 2 (36+),"-82,3 kg (middle)",1,0,2023-10-27
+moka team 443,lucas robreau,gi,france,26.0,homme,bleue,adult,"-88,3 kg (medium heavy)",3,2,2023-10-27
+moka team 443,pierre le meur,gi,france,36.0,homme,marron/noire,master 2 (36+),-70 kg (feather),1,0,2023-10-27
+moka team 443,pierre le meur,no gi,france,36.0,homme,marron/noire,master 2 (36+),"-73,5 kg (light)",1,0,2023-10-27
+moka team 443,ryan taine,gi,france,19.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+monkey gym,lilian loriot,no gi,france,15.0,homme,blanche,junior no gi,"-51,5 kg (rooster)",1,0,2023-10-27
+nbjja bdc,antoine rieder,no gi,france,33.0,homme,blanche,master 1 (30+),"-79,5 kg (middle)",3,0,2023-10-27
+nbjja bdc,camille maunoury,no gi,france,21.0,femme,bleue,adult,"-71,5 kg (middle heavy)",1,0,2023-10-27
+nbjja bdc,chloé maire,no gi,france,21.0,femme,blanche,adult,"-61,5 kg (light)",1,0,2023-10-27
+nbjja bdc,gaël le goff,no gi,france,26.0,homme,bleue,adult,"-73,5 kg (light)",3,0,2023-10-27
+nbjja bdc,laurent ailloud,no gi,france,51.0,homme,violette,master 5 (51+),"-85,5 kg (medium heavy)",1,0,2023-10-27
+nbjja bdc,mylène bessonneau,no gi,france,46.0,femme,blanche,master 4 (46+),"-66,5 kg (middle)",1,0,2023-10-27
+nbjja bdc,ronan maunoury,no gi,france,15.0,homme,blanche,junior no gi,"-71,5 kg (middle)",4,0,2023-10-27
+nbjja bdc,tiphaine chretien,no gi,france,28.0,femme,blanche,adult,"-56,5 kg (feather)",1,0,2023-10-27
+nbjja bdc,victor perrier,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+nbjja bdc,virginie pointel,no gi,france,38.0,femme,blanche,master 2 (36+),"-56,5 kg (feather)",1,0,2023-10-27
+nbjja bdc,véronique ailloud,no gi,france,46.0,femme,violette,master 4 (46+),"-56,5 kg (feather)",1,0,2023-10-27
+nbjja bdc,xavier gautier,no gi,france,45.0,homme,blanche,master 3 (41+),"-79,5 kg (middle)",1,0,2023-10-27
+neocortex jiujitsu,anthony boucholl,gi,france,26.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+neocortex jiujitsu,anthony boucholl,no gi,france,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+neocortex jiujitsu,william mosta,no gi,france,38.0,homme,blanche,master 2 (36+),"-55,5 kg (rooster)",1,0,2023-10-27
+nja | nagare jiu-jitsu academy,eric jacquemin,gi,france,37.0,homme,bleue,master 2 (36+),"-100,5 kg (super heavy)",1,0,2023-10-27
+nja | nagare jiu-jitsu academy,louis kerautret,no gi,france,25.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+nja | nagare jiu-jitsu academy,swann rouvier,no gi,france,31.0,homme,blanche,master 1 (30+),"-67,5 kg (feather)",2,0,2023-10-27
+nostang breizh'il jjb,arthur mengual,gi,france,34.0,homme,bleue,master 1 (30+),"-82,3 kg (middle)",2,0,2023-10-27
+nostang breizh'il jjb,lucas metivier,gi,france,22.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+nostang breizh'il jjb,osvaldo l. labrada,no gi,cuba,44.0,homme,blanche,master 3 (41+),"-55,5 kg (rooster)",1,0,2023-10-27
+ohs lutte & grappling,kévin autin,gi,france,34.0,homme,blanche,master 1 (30+),-70 kg (feather),2,0,2023-10-27
+ohs lutte & grappling,kévin autin,no gi,france,34.0,homme,blanche,master 1 (30+),"-67,5 kg (feather)",2,0,2023-10-27
+ohs lutte & grappling,matys bourdon,no gi,france,17.0,homme,blanche,junior no gi,"-71,5 kg (middle)",4,0,2023-10-27
+ohs lutte & grappling,nolan martin,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+ohs lutte & grappling,sofyen allal,no gi,france,34.0,homme,bleue,master 1 (30+),"-73,5 kg (light)",2,1,2023-10-27
+ohs lutte & grappling,valentin leberger,gi,france,24.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+ohs lutte & grappling,valentin leberger,no gi,france,24.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+origine jujitsu,benoit le briand,gi,france,30.0,homme,bleue,master 1 (30+),-76 kg (light),1,0,2023-10-27
+origine jujitsu,benoit le briand,no gi,france,30.0,homme,bleue,master 1 (30+),"-73,5 kg (light)",2,1,2023-10-27
+origine jujitsu,darius honkou,gi,france,31.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+origine jujitsu,julien ang cho,gi,france,43.0,homme,violette,master 3 (41+),-76 kg (light),1,0,2023-10-27
+origine jujitsu,leo vandenkerckhove,gi,france,23.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+origine jujitsu,maodann andrieux,gi,france,18.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-27
+origine jujitsu,maodann andrieux,no gi,france,18.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+origine jujitsu,thomas trontin,gi,france,33.0,homme,violette,master 1 (30+),-70 kg (feather),1,0,2023-10-27
+origine jujitsu,thomas trontin,no gi,france,33.0,homme,violette,master 1 (30+),"-67,5 kg (feather)",1,0,2023-10-27
+pennarbed jjb,anatole isch,no gi,france,28.0,homme,bleue,adult,"-97,5 kg (super heavy)",1,0,2023-10-27
+pennarbed jjb,eliott lhostis,no gi,france,19.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+pennarbed jjb,félix pierrès,no gi,france,19.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+pennarbed jjb,nino mazevet,no gi,france,19.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,4,2023-10-27
+pennarbed jjb,paul blottiere,no gi,france,35.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+pennarbed jjb,prenveille axel,gi,france,36.0,homme,marron/noire,adult,-64 kg (light feather),1,0,2023-10-27
+pennarbed jjb,prenveille axel,no gi,france,36.0,homme,marron/noire,adult,"-61,5 kg (light feather)",1,0,2023-10-27
+pennarbed jjb,racault benjamin,gi,france,38.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+pompomgalli,benjamin ohier,gi,france,32.0,homme,blanche,master 1 (30+),-76 kg (light),1,1,2023-10-27
+pompomgalli,christopher marquez,gi,france,27.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+pompomgalli,christopher marquez,no gi,france,27.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+pompomgalli,dylan queiroz,gi,france,23.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+pompomgalli,dylan queiroz,no gi,france,23.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+pompomgalli,jullian guerin,gi,france,23.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+pompomgalli,jullian guerin,no gi,france,23.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+pompomgalli,lucsuworna hellard,gi,france,28.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-27
+pompomgalli,lucsuworna hellard,no gi,france,28.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+pompomgalli,xavier tocqué,gi,france,52.0,homme,bleue,master 5 (51+),"-100,5 kg (super heavy)",1,0,2023-10-27
+pompomgalli,yelhem ahcene-le caroff,gi,france,16.0,homme,blanche,juniors,"-69,0 kg (light)",2,1,2023-10-27
+process,arthur audigane,gi,france,24.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+process,arthur fievre,gi,france,21.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+process,arthur fievre,no gi,france,21.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+process,harry hawkridge,no gi,france,17.0,homme,blanche,junior no gi,"-71,5 kg (middle)",4,0,2023-10-27
+process,julien belinga,no gi,france,23.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+process,pierre balliau,gi,france,20.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+process,pierre balliau,no gi,france,20.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+process,quentin folio,gi,france,29.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+project team jjb,damien negre,gi,france,38.0,homme,blanche,master 1 (30+),"-88,3 kg (medium heavy)",3,1,2023-10-27
+respire jiu-jitsu breizh,arnaud eymin,gi,france,34.0,homme,blanche,master 1 (30+),-64 kg (light feather),2,0,2023-10-27
+respire jiu-jitsu breizh,félicien de boerdère,gi,france,34.0,homme,blanche,master 1 (30+),"-88,3 kg (medium heavy)",3,1,2023-10-27
+respire jiu-jitsu breizh,félicien de boerdère,no gi,france,34.0,homme,blanche,master 1 (30+),"-85,5 kg (medium heavy)",2,0,2023-10-27
+respire jiu-jitsu breizh,hugo kermorvant,gi,france,24.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+respire jiu-jitsu breizh,hugo kermorvant,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+respire jiu-jitsu breizh,mehmet yaman,gi,france,31.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+respire jiu-jitsu breizh,tristan le toux,gi,france,34.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-27
+respire jiu-jitsu breizh,tristan le toux,no gi,france,34.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+respire jiu-jitsu breizh,vincent thielin,gi,france,41.0,homme,blanche,master 3 (41+),"-100,5 kg (super heavy)",1,1,2023-10-27
+respire jiu-jitsu breizh,yvonnick bauchet,gi,france,40.0,homme,blanche,master 2 (36+),-70 kg (feather),1,0,2023-10-27
+respire jiu-jitsu breizh,yvonnick bauchet,no gi,france,40.0,homme,blanche,master 2 (36+),"-67,5 kg (feather)",1,0,2023-10-27
+rio de l arrée,edgar murkin,gi,belgium,21.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+rio de l arrée,edgar murkin,no gi,belgium,21.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+rio de l arrée,lucas barrault,gi,france,31.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-27
+rio de l arrée,lucas barrault,no gi,france,31.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+rio de l arrée,steve mazé,gi,france,37.0,homme,violette,master 2 (36+),-70 kg (feather),1,1,2023-10-27
+rio de l arrée,steve mazé,no gi,france,37.0,homme,violette,master 2 (36+),"-67,5 kg (feather)",1,0,2023-10-27
+velha guarda jjb,vincent prieur,no gi,france,35.0,homme,violette,master 1 (30+),"-97,5 kg (super heavy)",1,0,2023-10-27
+yoda fight school,alfred ager,no gi,france,19.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+yoda fight school,antoine lebreuilly,gi,france,22.0,homme,bleue,adult,"-88,3 kg (medium heavy)",3,2,2023-10-27
+yoda fight school,bruno fouquet,gi,france,50.0,homme,bleue,master 4 (46+),-70 kg (feather),2,0,2023-10-27
+yoda fight school,clément fresneau,no gi,france,29.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+yoda fight school,dgino maudet,no gi,france,19.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+yoda fight school,fabien marty,gi,france,47.0,homme,blanche,master 3 (41+),-70 kg (feather),1,0,2023-10-27
+yoda fight school,fabio blondet,no gi,france,16.0,homme,blanche,junior no gi,"-61,5 kg (feather)",3,0,2023-10-27
+yoda fight school,gontran fauquereau,gi,france,20.0,homme,blanche,adult,-64 kg (light feather),6,0,2023-10-27
+yoda fight school,gontran fauquereau,no gi,france,20.0,homme,blanche,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+yoda fight school,hans david,no gi,france,26.0,homme,blanche,adult,"-91,5 kg (heavy)",3,1,2023-10-27
+yoda fight school,hermann chapelle,no gi,france,43.0,homme,blanche,master 3 (41+),"-97,5 kg (super heavy)",1,0,2023-10-27
+yoda fight school,hugo spindler,gi,france,20.0,homme,blanche,adult,"-94,3 kg (heavy)",4,0,2023-10-27
+yoda fight school,hugo spindler,no gi,france,20.0,homme,blanche,adult,"-91,5 kg (heavy)",3,1,2023-10-27
+yoda fight school,ilann fouquet,gi,france,20.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+yoda fight school,kedly achille,gi,france,25.0,homme,bleue,adult,"-82,3 kg (middle)",2,0,2023-10-27
+yoda fight school,kedly achille,no gi,france,25.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-27
+yoda fight school,kevin daguene,no gi,france,30.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+yoda fight school,laurent norbal,no gi,france,38.0,homme,bleue,adult,"+97,5 kg (ultra heavy)",1,0,2023-10-27
+yoda fight school,loan soutrel,no gi,france,23.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+yoda fight school,lorick fouquet,gi,france,18.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-27
+yoda fight school,louis henri,gi,france,25.0,homme,bleue,adult,"-82,3 kg (middle)",2,0,2023-10-27
+yoda fight school,louis henri,no gi,france,25.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-27
+yoda fight school,madjid benhassen,gi,france,26.0,homme,bleue,adult,-76 kg (light),2,2,2023-10-27
+yoda fight school,madjid benhassen,no gi,france,26.0,homme,bleue,adult,"-73,5 kg (light)",3,0,2023-10-27
+yoda fight school,many chapeau-kea,gi,france,15.0,homme,blanche,juniors,"-58,5 kg (light feather)",2,1,2023-10-27
+yoda fight school,many chapeau-kea,no gi,france,15.0,homme,blanche,junior no gi,"-56,5 kg (light feather)",1,1,2023-10-27
+yoda fight school,sedekon eliot daud,gi,france,20.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+yoda fight school,sedekon eliot daud,no gi,france,20.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+yoda fight school,simon largeau,no gi,france,26.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+yoda fight school,victor véran,gi,france,19.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+yoda fight school,victor véran,no gi,france,19.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+yoda fight school,william tavares,gi,france,24.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+yoda fight school,yoan garrot,gi,france,26.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+yoda fight school,yoan garrot,no gi,france,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+yoda fight school,yohan chouteau,gi,france,29.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-27
+zen-do,hugo oriol,gi,france,20.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+zr team rca,adnane gadjiev,no gi,france,20.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+zr team rca,andy rano,no gi,france,26.0,homme,blanche,adult,"-97,5 kg (super heavy)",2,0,2023-10-27
+zr team rca,arthur benoit,no gi,france,30.0,homme,blanche,master 1 (30+),"-79,5 kg (middle)",3,0,2023-10-27
+zr team rca,arthur calvez,gi,france,20.0,homme,blanche,adult,"-88,3 kg (medium heavy)",2,1,2023-10-27
+zr team rca,benjamin têtard,gi,france,29.0,homme,marron/noire,adult,"-100,5 kg (super heavy)",1,0,2023-10-27
+zr team rca,benjamin têtard,no gi,france,29.0,homme,marron/noire,adult,"-97,5 kg (super heavy)",1,0,2023-10-27
+zr team rca,briac le neel,no gi,france,24.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+zr team rca,carl hodebert,no gi,france,20.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+zr team rca,céleste osterblaise,no gi,france,15.0,homme,blanche,junior no gi,"-66,5 kg (light)",4,3,2023-10-27
+zr team rca,duncan goldschild,gi,france,25.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+zr team rca,duncan goldschild,no gi,france,25.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+zr team rca,erwan guillard,no gi,france,35.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,4,2023-10-27
+zr team rca,erwann monot,no gi,france,20.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+zr team rca,esmir sykaj,gi,albania,26.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-27
+zr team rca,fatih tiroglu,no gi,france,22.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-27
+zr team rca,fred moke,no gi,central african republic,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-27
+zr team rca,gaetan hengbart,gi,france,42.0,homme,marron/noire,master 3 (41+),"+100,5 kg (ultra heavy)",1,0,2023-10-27
+zr team rca,insa cisse,gi,france,26.0,homme,blanche,adult,"-94,3 kg (heavy)",4,0,2023-10-27
+zr team rca,kevin kelmendi,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,2,2023-10-27
+zr team rca,louis banhiet,no gi,france,24.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-27
+zr team rca,léo martin,gi,france,23.0,homme,blanche,adult,-64 kg (light feather),6,0,2023-10-27
+zr team rca,léo martin,no gi,france,23.0,homme,blanche,adult,"-61,5 kg (light feather)",5,0,2023-10-27
+zr team rca,matheo guermah,no gi,france,29.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,4,2023-10-27
+zr team rca,matthieu camus,gi,france,26.0,homme,marron/noire,adult,"-94,3 kg (heavy)",1,0,2023-10-27
+zr team rca,matthieu camus,no gi,france,26.0,homme,marron/noire,adult,"-91,5 kg (heavy)",1,0,2023-10-27
+zr team rca,minkail moussaev,gi,france,23.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+zr team rca,naxandre hengbart,gi,france,15.0,homme,blanche,juniors,"-79,3 kg (medium heavy)",1,2,2023-10-27
+zr team rca,nicolas agraffel,no gi,france,21.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+zr team rca,oscar murkin,gi,belgium,23.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+zr team rca,oscar murkin,no gi,belgium,23.0,homme,blanche,adult,"-79,5 kg (middle)",20,5,2023-10-27
+zr team rca,prefene ligeon,gi,france,24.0,homme,blanche,adult,"-82,3 kg (middle)",10,4,2023-10-27
+zr team rca,radwan joalland,gi,france,20.0,homme,bleue,adult,"-94,3 kg (heavy)",3,0,2023-10-27
+zr team rca,saïd kaddour,gi,algeria,23.0,homme,blanche,adult,-76 kg (light),16,5,2023-10-27
+zr team rca,titouan josselin,gi,france,21.0,homme,bleue,adult,"-88,3 kg (medium heavy)",3,2,2023-10-27
+zr team rca,tom havet,gi,france,25.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+zr team rca,tom havet,no gi,france,25.0,homme,blanche,adult,"-67,5 kg (feather)",11,1,2023-10-27
+zr team rca,victor pann,gi,france,21.0,homme,blanche,adult,-70 kg (feather),15,4,2023-10-27
+(no academy),hugo vannier,no gi,france,22.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-26
+academie pythagore,franck geslin,gi,france,43.0,homme,violette,master 3 (41+),"-82,3 kg (middle)",1,0,2023-10-26
+academie pythagore,julien guillet,gi,france,46.0,homme,violette,master 4 (46+),-76 kg (light),1,0,2023-10-26
+academie pythagore,petru alesandrini,gi,france,46.0,homme,violette,master 3 (41+),"-94,3 kg (heavy)",1,0,2023-10-26
+academie pythagore,tristan vassal,no gi,france,25.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+acsn,iwen chevalier,no gi,france,22.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+acsn,robin flanet,no gi,france,19.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,2,2023-10-26
+apc29,islahidine mohamed,no gi,france,20.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+arjjb- bretagne,harutyun brutyan,gi,armenia,19.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+arjjb- bretagne,harutyun brutyan,no gi,armenia,19.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+arjjb- bretagne,johnny krainski,no gi,france,32.0,homme,blanche,adult,"-61,5 kg (light feather)",4,1,2023-10-26
+arjjb- bretagne,jonathan pinard,gi,france,24.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+arjjb- bretagne,jonathan pinard,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+arjjb- bretagne,jordan vorn,no gi,france,18.0,homme,blanche,adult,"-61,5 kg (light feather)",4,1,2023-10-26
+arjjb- bretagne,thibaut cros,gi,france,38.0,homme,blanche,master 2 (36+),"-82,3 kg (middle)",1,1,2023-10-26
+association lavalloise d’arts martiaux,abdulraouf kiki,no gi,syria,24.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+association lavalloise d’arts martiaux,adam bouras,no gi,algeria,19.0,homme,blanche,adult,"+97,5 kg (ultra heavy)",1,2,2023-10-26
+association lavalloise d’arts martiaux,lény cupit-caro,no gi,france,19.0,homme,blanche,adult,"-61,5 kg (light feather)",4,1,2023-10-26
+brazilian sport club,aurélie navoret,gi,france,45.0,femme,blanche,master 3 (41+),"+79,3 kg (super heavy)",1,0,2023-10-26
+brazilian sport club,gaetan boeuf-zouaillec,gi,france,18.0,homme,blanche,adult,-64 kg (light feather),5,1,2023-10-26
+brazilian sport club,gaetan boeuf-zouaillec,no gi,france,18.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+brazilian sport club,lionel navoret,gi,france,49.0,homme,bleue,master 4 (46+),-70 kg (feather),2,0,2023-10-26
+brazilian sport club,louise penin,gi,france,15.0,femme,blanche,junior,"-65,0 kg (middle heavy)",1,0,2023-10-26
+gant hermine vannetais,david medar,no gi,france,30.0,homme,blanche,master 1 (30+),"-85,5 kg (medium heavy)",2,0,2023-10-26
+gant hermine vannetais,julien corvaisier,gi,france,28.0,homme,bleue,adult,"-94,3 kg (heavy)",3,0,2023-10-26
+gant hermine vannetais,julien corvaisier,no gi,france,28.0,homme,bleue,adult,"-91,5 kg (heavy)",1,0,2023-10-26
+gf team france,alexandre louyrette,gi,france,44.0,homme,marron/noire,master 2 (36+),"-88,3 kg (medium heavy)",1,0,2023-10-26
+hors normes bjj rennes,abdullah magomedov,gi,france,16.0,homme,blanche,juniors,"-64,0 kg (feather)",2,2,2023-10-26
+hors normes bjj rennes,abdullah magomedov,no gi,france,16.0,homme,blanche,junior no gi,"-61,5 kg (feather)",3,0,2023-10-26
+hors normes bjj rennes,christmann benoit,gi,france,42.0,homme,bleue,master 3 (41+),"+100,5 kg (ultra heavy)",1,0,2023-10-26
+hors normes bjj rennes,corentin cahen,gi,france,33.0,homme,bleue,master 1 (30+),"-82,3 kg (middle)",2,0,2023-10-26
+hors normes bjj rennes,daniial abdulov,no gi,france,26.0,homme,bleue,adult,"-73,5 kg (light)",3,0,2023-10-26
+hors normes bjj rennes,djibril ahmed hasan,gi,france,18.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-26
+hors normes bjj rennes,djibril ahmed hasan,no gi,france,18.0,homme,blanche,adult,"-55,5 kg (rooster)",1,0,2023-10-26
+hors normes bjj rennes,eric châtelet,gi,france,23.0,homme,violette,adult,"+100,5 kg (ultra heavy)",1,0,2023-10-26
+hors normes bjj rennes,evan journet,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,3,2023-10-26
+hors normes bjj rennes,ilan david,gi,france,16.0,homme,blanche,juniors,"-69,0 kg (light)",2,1,2023-10-26
+hors normes bjj rennes,ilan david,no gi,france,16.0,homme,blanche,junior no gi,"-66,5 kg (light)",2,3,2023-10-26
+hors normes bjj rennes,jean minot,gi,france,21.0,homme,blanche,adult,-64 kg (light feather),5,1,2023-10-26
+hors normes bjj rennes,jules maury,no gi,france,21.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+hors normes bjj rennes,loris pellois,no gi,france,22.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+hors normes bjj rennes,louison paty,gi,france,28.0,homme,bleue,adult,-76 kg (light),2,2,2023-10-26
+hors normes bjj rennes,nasroullah cabdou,gi,france,18.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+hors normes bjj rennes,pierre olivier,gi,france,26.0,homme,blanche,adult,-64 kg (light feather),5,1,2023-10-26
+hors normes bjj rennes,victor de buck,gi,france,27.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-26
+hors normes bjj rennes,wasim tafasca,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,3,2023-10-26
+hors normes bjj rennes,wasim tafasca,no gi,france,16.0,homme,blanche,junior no gi,"-71,5 kg (middle)",2,2,2023-10-26
+icon jiu jitsu team,aurélien lefillastre,gi,france,28.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-26
+icon jiu jitsu team,benjamin costa,gi,france,34.0,homme,blanche,master 1 (30+),-70 kg (feather),1,1,2023-10-26
+icon jiu jitsu team,emmanuel esnol chaurin,gi,france,35.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+icon jiu jitsu team,nathan gardet,gi,france,33.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+icon jiu jitsu team,oscar gicquel,gi,france,21.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+icon jiu jitsu team,stephane guilloteau,gi,france,52.0,homme,bleue,master 5 (51+),"-88,3 kg (medium heavy)",1,0,2023-10-26
+jjb fight club impact ploeren,lewellyn loxq guingueno,gi,france,29.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+jjb fight club impact ploeren,lewellyn loxq guingueno,no gi,france,29.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+judo plaisir 56,antoine le solliec,gi,france,53.0,homme,bleue,master 5 (51+),-70 kg (feather),1,0,2023-10-26
+judo plaisir 56,antoine le solliec,no gi,france,53.0,homme,bleue,master 5 (51+),"-67,5 kg (feather)",1,0,2023-10-26
+judo plaisir 56,lénaïc le solliec,gi,france,17.0,femme,bleue,junior,-69 kg (heavy),1,0,2023-10-26
+judo plaisir 56,lénaïc le solliec,no gi,france,17.0,femme,bleue,juvenile 1,"-66,5 kg (heavy)",1,0,2023-10-26
+judo plaisir 56,mathurin ligot,no gi,france,33.0,homme,bleue,master 1 (30+),"+97,5 kg (ultra heavy)",1,0,2023-10-26
+judo plaisir 56,matthieu boidin,gi,france,27.0,homme,bleue,adult,"-94,3 kg (heavy)",3,0,2023-10-26
+judo plaisir 56,morgane le solliec,gi,france,15.0,femme,blanche,junior,"-56,5 kg (light)",1,1,2023-10-26
+judo plaisir 56,morgane le solliec,no gi,france,15.0,femme,blanche,juvenile 1,"-54,5 kg (light)",1,0,2023-10-26
+judo plaisir 56,yann rouxel,no gi,france,55.0,homme,bleue,master 5 (51+),"-79,5 kg (middle)",1,0,2023-10-26
+kabuto,martin gouyette,gi,france,32.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+kabuto,martin gouyette,no gi,france,32.0,homme,blanche,master 1 (30+),"-79,5 kg (middle)",3,0,2023-10-26
+kabuto fight team,joan le bescond,gi,france,25.0,homme,blanche,adult,"-88,3 kg (medium heavy)",2,1,2023-10-26
+kabuto fight team,joan le bescond,no gi,france,25.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,2,2023-10-26
+maccabi paris,tom paugam,no gi,france,22.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-26
+mb academy,romain calvez,gi,france,26.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+mb academy,romain calvez,no gi,france,26.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+mkteam,titouan bian,gi,france,17.0,homme,bleue,juniors,"-64,0 kg (feather)",1,0,2023-10-26
+mkteam,titouan bian,no gi,france,17.0,homme,bleue,junior no gi,"-61,5 kg (feather)",1,0,2023-10-26
+mkteam rennes,alex clément,gi,france,16.0,homme,blanche,juniors,"-58,5 kg (light feather)",2,1,2023-10-26
+mkteam rennes,antoine gautrain,gi,france,26.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+mkteam rennes,antoine gautrain,no gi,france,26.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+mkteam rennes,damien le morvan,gi,france,30.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+mkteam rennes,eden dheilly montreer,gi,france,18.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+mkteam rennes,eden dheilly montreer,no gi,france,18.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+mkteam rennes,emile geley,no gi,france,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+mkteam rennes,hadrien robin,no gi,france,22.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+mkteam rennes,izenah denais,no gi,france,22.0,femme,blanche,adult,"-66,5 kg (middle)",1,0,2023-10-26
+mkteam rennes,jean pinel,gi,france,35.0,homme,blanche,master 1 (30+),"-88,3 kg (medium heavy)",3,1,2023-10-26
+mkteam rennes,jules rongier,no gi,france,24.0,homme,blanche,adult,"-97,5 kg (super heavy)",2,0,2023-10-26
+mkteam rennes,mathys gautrain,gi,france,23.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+mkteam rennes,maxime theault,gi,france,18.0,homme,blanche,adult,-64 kg (light feather),5,1,2023-10-26
+mkteam rennes,noam aubergeon,gi,france,23.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+mkteam rennes,pierre sandrin,no gi,france,21.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+mkteam rennes,salakhouddin saytakhanov,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,3,2023-10-26
+mkteam rennes,ylian amrioui,gi,france,18.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+moka team 443,alexis cherubin,gi,france,23.0,homme,blanche,adult,"-100,5 kg (super heavy)",1,0,2023-10-26
+moka team 443,alvin mottais,gi,france,15.0,homme,blanche,juniors,"-64,0 kg (feather)",2,2,2023-10-26
+moka team 443,alvin mottais,no gi,france,15.0,homme,blanche,junior no gi,"-61,5 kg (feather)",3,0,2023-10-26
+moka team 443,antoine frappier,gi,france,21.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+moka team 443,brunet victor,gi,france,31.0,homme,blanche,master 1 (30+),-64 kg (light feather),2,0,2023-10-26
+moka team 443,chamilkhan papaev,no gi,russia,16.0,homme,blanche,junior no gi,"-66,5 kg (light)",2,3,2023-10-26
+moka team 443,damien juan,gi,france,31.0,homme,violette,master 1 (30+),-70 kg (feather),2,0,2023-10-26
+moka team 443,gaël cadic,gi,france,48.0,homme,bleue,master 4 (46+),"-94,3 kg (heavy)",1,0,2023-10-26
+moka team 443,gaëtan gommelet,gi,france,36.0,homme,marron/noire,master 2 (36+),"-82,3 kg (middle)",1,0,2023-10-26
+moka team 443,lucas robreau,gi,france,26.0,homme,bleue,adult,"-88,3 kg (medium heavy)",3,2,2023-10-26
+moka team 443,pierre le meur,gi,france,36.0,homme,marron/noire,master 2 (36+),-70 kg (feather),1,0,2023-10-26
+moka team 443,pierre le meur,no gi,france,36.0,homme,marron/noire,master 2 (36+),"-73,5 kg (light)",1,0,2023-10-26
+moka team 443,ryan taine,gi,france,19.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+nbjja bdc,antoine rieder,no gi,france,33.0,homme,blanche,master 1 (30+),"-79,5 kg (middle)",3,0,2023-10-26
+nbjja bdc,camille maunoury,no gi,france,21.0,femme,bleue,adult,"-71,5 kg (middle heavy)",1,0,2023-10-26
+nbjja bdc,chloé maire,no gi,france,21.0,femme,blanche,adult,"-61,5 kg (light)",1,0,2023-10-26
+nbjja bdc,gaël le goff,no gi,france,26.0,homme,bleue,adult,"-73,5 kg (light)",3,0,2023-10-26
+nbjja bdc,laurent ailloud,no gi,france,51.0,homme,violette,master 5 (51+),"-85,5 kg (medium heavy)",1,0,2023-10-26
+nbjja bdc,mylène bessonneau,no gi,france,46.0,femme,blanche,master 4 (46+),"-66,5 kg (middle)",1,0,2023-10-26
+nbjja bdc,ronan maunoury,no gi,france,15.0,homme,blanche,junior no gi,"-71,5 kg (middle)",2,2,2023-10-26
+nbjja bdc,tiphaine chretien,no gi,france,28.0,femme,blanche,adult,"-56,5 kg (feather)",1,0,2023-10-26
+nbjja bdc,victor perrier,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+nbjja bdc,virginie pointel,no gi,france,38.0,femme,blanche,master 2 (36+),"-56,5 kg (feather)",1,0,2023-10-26
+nbjja bdc,véronique ailloud,no gi,france,46.0,femme,violette,master 4 (46+),"-56,5 kg (feather)",1,0,2023-10-26
+nbjja bdc,xavier gautier,no gi,france,45.0,homme,blanche,master 3 (41+),"-79,5 kg (middle)",1,0,2023-10-26
+neocortex jiujitsu,anthony boucholl,gi,france,26.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+neocortex jiujitsu,anthony boucholl,no gi,france,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+neocortex jiujitsu,william mosta,no gi,france,38.0,homme,blanche,master 2 (36+),"-55,5 kg (rooster)",1,0,2023-10-26
+nja | nagare jiu-jitsu academy,eric jacquemin,gi,france,37.0,homme,bleue,master 2 (36+),"-100,5 kg (super heavy)",1,0,2023-10-26
+nja | nagare jiu-jitsu academy,louis kerautret,no gi,france,25.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+nja | nagare jiu-jitsu academy,swann rouvier,no gi,france,31.0,homme,blanche,master 1 (30+),"-67,5 kg (feather)",1,1,2023-10-26
+nostang breizh'il jjb,arthur mengual,gi,france,34.0,homme,bleue,master 1 (30+),"-82,3 kg (middle)",2,0,2023-10-26
+nostang breizh'il jjb,lucas metivier,gi,france,22.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+nostang breizh'il jjb,osvaldo l. labrada,no gi,cuba,44.0,homme,blanche,master 3 (41+),"-55,5 kg (rooster)",1,0,2023-10-26
+ohs lutte & grappling,nolan martin,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+ohs lutte & grappling,sofyen allal,no gi,france,34.0,homme,bleue,master 1 (30+),"-73,5 kg (light)",2,1,2023-10-26
+origine jujitsu,benoit le briand,gi,france,30.0,homme,bleue,master 1 (30+),-76 kg (light),1,0,2023-10-26
+origine jujitsu,benoit le briand,no gi,france,30.0,homme,bleue,master 1 (30+),"-73,5 kg (light)",2,1,2023-10-26
+origine jujitsu,julien ang cho,gi,france,43.0,homme,violette,master 3 (41+),-76 kg (light),1,0,2023-10-26
+origine jujitsu,leo vandenkerckhove,gi,france,23.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+origine jujitsu,maodann andrieux,gi,france,18.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-26
+origine jujitsu,maodann andrieux,no gi,france,18.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-26
+origine jujitsu,thomas trontin,gi,france,33.0,homme,violette,master 1 (30+),-70 kg (feather),2,0,2023-10-26
+origine jujitsu,thomas trontin,no gi,france,33.0,homme,violette,master 1 (30+),"-67,5 kg (feather)",1,0,2023-10-26
+pennarbed jjb,anatole isch,no gi,france,28.0,homme,bleue,adult,"-97,5 kg (super heavy)",1,0,2023-10-26
+pennarbed jjb,eliott lhostis,no gi,france,19.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+pennarbed jjb,félix pierrès,no gi,france,19.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+pennarbed jjb,nino mazevet,no gi,france,19.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,2,2023-10-26
+pennarbed jjb,paul blottiere,no gi,france,35.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+pennarbed jjb,prenveille axel,gi,france,36.0,homme,marron/noire,adult,-64 kg (light feather),1,0,2023-10-26
+pennarbed jjb,prenveille axel,no gi,france,36.0,homme,marron/noire,adult,"-61,5 kg (light feather)",1,0,2023-10-26
+pennarbed jjb,racault benjamin,gi,france,38.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+pompomgalli,benjamin ohier,gi,france,32.0,homme,blanche,master 1 (30+),-76 kg (light),1,1,2023-10-26
+pompomgalli,christopher marquez,gi,france,27.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+pompomgalli,christopher marquez,no gi,france,27.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+pompomgalli,dylan queiroz,gi,france,23.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+pompomgalli,dylan queiroz,no gi,france,23.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+pompomgalli,jullian guerin,gi,france,23.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+pompomgalli,jullian guerin,no gi,france,23.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+pompomgalli,lucsuworna hellard,gi,france,28.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-26
+pompomgalli,lucsuworna hellard,no gi,france,28.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-26
+pompomgalli,tudgual maleuvre,gi,france,32.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+pompomgalli,xavier tocqué,gi,france,52.0,homme,bleue,master 5 (51+),"-100,5 kg (super heavy)",1,0,2023-10-26
+pompomgalli,yelhem ahcene-le caroff,gi,france,16.0,homme,blanche,juniors,"-69,0 kg (light)",2,1,2023-10-26
+process,arthur fievre,gi,france,21.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+process,arthur fievre,no gi,france,21.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+process,julien belinga,no gi,france,23.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+process,pierre balliau,gi,france,20.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+process,quentin folio,gi,france,29.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+project team jjb,damien negre,gi,france,38.0,homme,blanche,master 1 (30+),"-88,3 kg (medium heavy)",3,1,2023-10-26
+respire jiu-jitsu breizh,arnaud eymin,gi,france,34.0,homme,blanche,master 1 (30+),-64 kg (light feather),2,0,2023-10-26
+respire jiu-jitsu breizh,félicien de boerdère,gi,france,34.0,homme,blanche,master 1 (30+),"-88,3 kg (medium heavy)",3,1,2023-10-26
+respire jiu-jitsu breizh,félicien de boerdère,no gi,france,34.0,homme,blanche,master 1 (30+),"-85,5 kg (medium heavy)",2,0,2023-10-26
+respire jiu-jitsu breizh,hugo kermorvant,gi,france,24.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+respire jiu-jitsu breizh,hugo kermorvant,no gi,france,24.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+respire jiu-jitsu breizh,mehmet yaman,gi,france,31.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+respire jiu-jitsu breizh,tristan le toux,gi,france,34.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-26
+respire jiu-jitsu breizh,tristan le toux,no gi,france,34.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-26
+respire jiu-jitsu breizh,vincent thielin,gi,france,41.0,homme,blanche,master 3 (41+),"-100,5 kg (super heavy)",1,1,2023-10-26
+rio de l arrée,edgar murkin,gi,belgium,21.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+rio de l arrée,edgar murkin,no gi,belgium,21.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+rio de l arrée,lucas barrault,gi,france,31.0,homme,bleue,adult,-64 kg (light feather),5,0,2023-10-26
+rio de l arrée,lucas barrault,no gi,france,31.0,homme,bleue,adult,"-61,5 kg (light feather)",5,0,2023-10-26
+rio de l arrée,steve mazé,gi,france,37.0,homme,violette,master 2 (36+),-70 kg (feather),1,1,2023-10-26
+rio de l arrée,steve mazé,no gi,france,37.0,homme,violette,master 2 (36+),"-67,5 kg (feather)",1,0,2023-10-26
+yoda fight school,alfred ager,no gi,france,19.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+yoda fight school,antoine lebreuilly,gi,france,22.0,homme,bleue,adult,"-88,3 kg (medium heavy)",3,2,2023-10-26
+yoda fight school,bruno fouquet,gi,france,50.0,homme,bleue,master 4 (46+),-70 kg (feather),2,0,2023-10-26
+yoda fight school,clément fresneau,no gi,france,29.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+yoda fight school,dgino maudet,no gi,france,19.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+yoda fight school,fabien marty,gi,france,47.0,homme,blanche,master 3 (41+),-70 kg (feather),1,0,2023-10-26
+yoda fight school,fabio blondet,no gi,france,16.0,homme,blanche,junior no gi,"-61,5 kg (feather)",3,0,2023-10-26
+yoda fight school,gontran fauquereau,gi,france,20.0,homme,blanche,adult,-64 kg (light feather),5,1,2023-10-26
+yoda fight school,gontran fauquereau,no gi,france,20.0,homme,blanche,adult,"-61,5 kg (light feather)",4,1,2023-10-26
+yoda fight school,hans david,no gi,france,26.0,homme,blanche,adult,"-91,5 kg (heavy)",2,1,2023-10-26
+yoda fight school,hermann chapelle,no gi,france,43.0,homme,blanche,master 3 (41+),"-97,5 kg (super heavy)",1,0,2023-10-26
+yoda fight school,hugo spindler,gi,france,20.0,homme,blanche,adult,"-94,3 kg (heavy)",1,1,2023-10-26
+yoda fight school,hugo spindler,no gi,france,20.0,homme,blanche,adult,"-91,5 kg (heavy)",2,1,2023-10-26
+yoda fight school,ilann fouquet,gi,france,20.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+yoda fight school,kedly achille,gi,france,25.0,homme,bleue,adult,"-82,3 kg (middle)",2,0,2023-10-26
+yoda fight school,kedly achille,no gi,france,25.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-26
+yoda fight school,kevin daguene,no gi,france,30.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+yoda fight school,laurent norbal,no gi,france,38.0,homme,bleue,adult,"+97,5 kg (ultra heavy)",1,0,2023-10-26
+yoda fight school,loan soutrel,no gi,france,23.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+yoda fight school,lorick fouquet,gi,france,18.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-26
+yoda fight school,louis henri,gi,france,25.0,homme,bleue,adult,"-82,3 kg (middle)",2,0,2023-10-26
+yoda fight school,louis henri,no gi,france,25.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-26
+yoda fight school,madjid benhassen,gi,france,26.0,homme,bleue,adult,-76 kg (light),2,2,2023-10-26
+yoda fight school,madjid benhassen,no gi,france,26.0,homme,bleue,adult,"-73,5 kg (light)",3,0,2023-10-26
+yoda fight school,many chapeau-kea,gi,france,15.0,homme,blanche,juniors,"-58,5 kg (light feather)",2,1,2023-10-26
+yoda fight school,many chapeau-kea,no gi,france,15.0,homme,blanche,junior no gi,"-56,5 kg (light feather)",1,1,2023-10-26
+yoda fight school,sedekon eliot daud,gi,france,20.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+yoda fight school,sedekon eliot daud,no gi,france,20.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+yoda fight school,simon largeau,no gi,france,26.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+yoda fight school,victor véran,gi,france,19.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+yoda fight school,victor véran,no gi,france,19.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+yoda fight school,william tavares,gi,france,24.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+yoda fight school,yoan garrot,gi,france,26.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+yoda fight school,yoan garrot,no gi,france,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+yoda fight school,yohan chouteau,gi,france,29.0,homme,bleue,adult,-70 kg (feather),7,2,2023-10-26
+zen-do,hugo oriol,gi,france,20.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+zr team rca,adnane gadjiev,no gi,france,20.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+zr team rca,andy rano,no gi,france,26.0,homme,blanche,adult,"-97,5 kg (super heavy)",2,0,2023-10-26
+zr team rca,arthur benoit,no gi,france,30.0,homme,blanche,master 1 (30+),"-79,5 kg (middle)",3,0,2023-10-26
+zr team rca,arthur calvez,gi,france,20.0,homme,blanche,adult,"-88,3 kg (medium heavy)",2,1,2023-10-26
+zr team rca,benjamin têtard,gi,france,29.0,homme,marron/noire,adult,"-100,5 kg (super heavy)",1,0,2023-10-26
+zr team rca,benjamin têtard,no gi,france,29.0,homme,marron/noire,adult,"-97,5 kg (super heavy)",1,0,2023-10-26
+zr team rca,briac le neel,no gi,france,24.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+zr team rca,charles guignans,gi,france,36.0,homme,violette,master 2 (36+),"-88,3 kg (medium heavy)",1,0,2023-10-26
+zr team rca,duncan goldschild,no gi,france,25.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+zr team rca,erwan guillard,no gi,france,35.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,2,2023-10-26
+zr team rca,erwann monot,no gi,france,20.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+zr team rca,esmir sykaj,gi,albania,26.0,homme,blanche,adult,"-57,5 kg (rooster)",4,0,2023-10-26
+zr team rca,fatih tiroglu,no gi,france,22.0,homme,bleue,adult,"-67,5 kg (feather)",7,1,2023-10-26
+zr team rca,fred moke,no gi,central african republic,26.0,homme,blanche,adult,"-73,5 kg (light)",16,4,2023-10-26
+zr team rca,gaetan hengbart,gi,france,42.0,homme,marron/noire,master 3 (41+),"+100,5 kg (ultra heavy)",1,0,2023-10-26
+zr team rca,kevin kelmendi,gi,france,16.0,homme,blanche,juniors,"-74,0 kg (middle)",4,3,2023-10-26
+zr team rca,louis banhiet,no gi,france,24.0,homme,bleue,adult,"-85,5 kg (medium heavy)",4,2,2023-10-26
+zr team rca,matheo guermah,no gi,france,29.0,homme,blanche,adult,"-85,5 kg (medium heavy)",5,2,2023-10-26
+zr team rca,matthieu camus,gi,france,26.0,homme,marron/noire,adult,"-94,3 kg (heavy)",1,0,2023-10-26
+zr team rca,matthieu camus,no gi,france,26.0,homme,marron/noire,adult,"-91,5 kg (heavy)",1,0,2023-10-26
+zr team rca,minkail moussaev,gi,france,23.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+zr team rca,naxandre hengbart,gi,france,15.0,homme,blanche,juniors,"-79,3 kg (medium heavy)",1,1,2023-10-26
+zr team rca,nicolas agraffel,no gi,france,21.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+zr team rca,oscar murkin,gi,belgium,23.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+zr team rca,oscar murkin,no gi,belgium,23.0,homme,blanche,adult,"-79,5 kg (middle)",16,6,2023-10-26
+zr team rca,prefene ligeon,gi,france,24.0,homme,blanche,adult,"-82,3 kg (middle)",9,4,2023-10-26
+zr team rca,radwan joalland,gi,france,20.0,homme,bleue,adult,"-94,3 kg (heavy)",3,0,2023-10-26
+zr team rca,saïd kaddour,gi,algeria,23.0,homme,blanche,adult,-76 kg (light),16,6,2023-10-26
+zr team rca,titouan josselin,gi,france,21.0,homme,bleue,adult,"-88,3 kg (medium heavy)",3,2,2023-10-26
+zr team rca,tom havet,gi,france,25.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+zr team rca,tom havet,no gi,france,25.0,homme,blanche,adult,"-67,5 kg (feather)",9,2,2023-10-26
+zr team rca,victor pann,gi,france,21.0,homme,blanche,adult,-70 kg (feather),12,4,2023-10-26
+(no academy),hugo vannier,no gi,france,22.0,homme,,,,2,3,2023-10-25
+academie pythagore,franck geslin,gi,france,43.0,homme,,,,1,0,2023-10-25
+academie pythagore,julien guillet,gi,france,46.0,homme,,,,1,0,2023-10-25
+academie pythagore,petru alesandrini,gi,france,46.0,homme,,,,1,0,2023-10-25
+academie pythagore,tristan vassal,no gi,france,25.0,homme,,,,14,3,2023-10-25
+acsn,iwen chevalier,no gi,france,22.0,homme,,,,12,8,2023-10-25
+acsn,robin flanet,no gi,france,19.0,homme,,,,5,3,2023-10-25
+apc29,islahidine mohamed,no gi,france,20.0,homme,,,,10,2,2023-10-25
+apc29,serhii borysov,gi,ukraine,24.0,homme,,,,9,4,2023-10-25
+apc29,serhii borysov,no gi,ukraine,24.0,homme,,,,12,8,2023-10-25
+arjjb- bretagne,harutyun brutyan,gi,armenia,19.0,homme,,,,13,5,2023-10-25
+arjjb- bretagne,harutyun brutyan,no gi,armenia,19.0,homme,,,,14,3,2023-10-25
+arjjb- bretagne,jonathan pinard,gi,france,24.0,homme,,,,9,4,2023-10-25
+arjjb- bretagne,jonathan pinard,no gi,france,24.0,homme,,,,12,8,2023-10-25
+arjjb- bretagne,jordan vorn,no gi,france,18.0,homme,,,,2,2,2023-10-25
+arjjb- bretagne,thibaut cros,gi,france,38.0,homme,,,,1,1,2023-10-25
+association lavalloise d’arts martiaux,adam bouras,no gi,algeria,19.0,homme,,,,1,2,2023-10-25
+brazilian sport club,aurélie navoret,gi,france,45.0,femme,,,,1,0,2023-10-25
+brazilian sport club,gaetan boeuf-zouaillec,gi,france,18.0,homme,,,,2,2,2023-10-25
+brazilian sport club,gaetan boeuf-zouaillec,no gi,france,18.0,homme,,,,10,2,2023-10-25
+brazilian sport club,lionel navoret,gi,france,49.0,homme,,,,2,0,2023-10-25
+brazilian sport club,louise penin,gi,france,15.0,femme,,,,1,0,2023-10-25
+gant hermine vannetais,david medar,no gi,france,30.0,homme,,,,2,0,2023-10-25
+gant hermine vannetais,julien corvaisier,gi,france,28.0,homme,,,,2,0,2023-10-25
+gant hermine vannetais,julien corvaisier,no gi,france,28.0,homme,,,,1,0,2023-10-25
+gf team france,alexandre louyrette,gi,france,44.0,homme,,,,1,0,2023-10-25
+hors normes bjj rennes,abdullah magomedov,gi,france,16.0,homme,,,,3,2,2023-10-25
+hors normes bjj rennes,abdullah magomedov,no gi,france,16.0,homme,,,,3,0,2023-10-25
+hors normes bjj rennes,christmann benoit,gi,france,42.0,homme,,,,1,0,2023-10-25
+hors normes bjj rennes,corentin cahen,gi,france,33.0,homme,,,,2,0,2023-10-25
+hors normes bjj rennes,daniial abdulov,no gi,france,26.0,homme,,,,3,0,2023-10-25
+hors normes bjj rennes,djibril ahmed hasan,gi,france,18.0,homme,,,,4,0,2023-10-25
+hors normes bjj rennes,djibril ahmed hasan,no gi,france,18.0,homme,,,,1,0,2023-10-25
+hors normes bjj rennes,eric châtelet,gi,france,23.0,homme,,,,1,0,2023-10-25
+hors normes bjj rennes,evan journet,gi,france,16.0,homme,,,,3,2,2023-10-25
+hors normes bjj rennes,ilan david,gi,france,16.0,homme,,,,2,1,2023-10-25
+hors normes bjj rennes,ilan david,no gi,france,16.0,homme,,,,2,3,2023-10-25
+hors normes bjj rennes,jules maury,no gi,france,21.0,homme,,,,14,3,2023-10-25
+hors normes bjj rennes,loris pellois,no gi,france,22.0,homme,,,,7,1,2023-10-25
+hors normes bjj rennes,louison paty,gi,france,28.0,homme,,,,2,2,2023-10-25
+hors normes bjj rennes,nasroullah cabdou,gi,france,18.0,homme,,,,13,5,2023-10-25
+hors normes bjj rennes,victor de buck,gi,france,27.0,homme,,,,4,0,2023-10-25
+hors normes bjj rennes,wasim tafasca,gi,france,16.0,homme,,,,3,3,2023-10-25
+hors normes bjj rennes,wasim tafasca,no gi,france,16.0,homme,,,,2,1,2023-10-25
+icon jiu jitsu team,aurélien lefillastre,gi,france,28.0,homme,,,,6,0,2023-10-25
+icon jiu jitsu team,benjamin costa,gi,france,34.0,homme,,,,1,1,2023-10-25
+icon jiu jitsu team,emmanuel esnol chaurin,gi,france,35.0,homme,,,,13,5,2023-10-25
+icon jiu jitsu team,nathan gardet,gi,france,33.0,homme,,,,7,2,2023-10-25
+icon jiu jitsu team,oscar gicquel,gi,france,21.0,homme,,,,13,5,2023-10-25
+icon jiu jitsu team,stephane guilloteau,gi,france,52.0,homme,,,,1,0,2023-10-25
+jjb fight club impact ploeren,lewellyn loxq guingueno,gi,france,29.0,homme,,,,7,2,2023-10-25
+jjb fight club impact ploeren,lewellyn loxq guingueno,no gi,france,29.0,homme,,,,7,1,2023-10-25
+judo plaisir 56,antoine le solliec,gi,france,53.0,homme,,,,1,0,2023-10-25
+judo plaisir 56,antoine le solliec,no gi,france,53.0,homme,,,,1,0,2023-10-25
+judo plaisir 56,lénaïc le solliec,gi,france,17.0,femme,,,,1,0,2023-10-25
+judo plaisir 56,lénaïc le solliec,no gi,france,17.0,femme,,,,1,0,2023-10-25
+judo plaisir 56,matthieu boidin,gi,france,27.0,homme,,,,2,0,2023-10-25
+judo plaisir 56,morgane le solliec,gi,france,15.0,femme,,,,1,1,2023-10-25
+judo plaisir 56,morgane le solliec,no gi,france,15.0,femme,,,,1,0,2023-10-25
+judo plaisir 56,yann rouxel,no gi,france,55.0,homme,,,,1,0,2023-10-25
+kabuto,martin gouyette,gi,france,32.0,homme,,,,13,5,2023-10-25
+kabuto,martin gouyette,no gi,france,32.0,homme,,,,3,0,2023-10-25
+kabuto fight team,joan le bescond,gi,france,25.0,homme,,,,2,1,2023-10-25
+kabuto fight team,joan le bescond,no gi,france,25.0,homme,,,,5,3,2023-10-25
+maccabi paris,tom paugam,no gi,france,22.0,homme,,,,6,0,2023-10-25
+mb academy,romain calvez,gi,france,26.0,homme,,,,9,4,2023-10-25
+mb academy,romain calvez,no gi,france,26.0,homme,,,,12,8,2023-10-25
+mkteam,titouan bian,gi,france,17.0,homme,,,,1,0,2023-10-25
+mkteam,titouan bian,no gi,france,17.0,homme,,,,1,0,2023-10-25
+mkteam rennes,alex clément,gi,france,16.0,homme,,,,2,1,2023-10-25
+mkteam rennes,antoine gautrain,gi,france,26.0,homme,,,,7,2,2023-10-25
+mkteam rennes,antoine gautrain,no gi,france,26.0,homme,,,,7,1,2023-10-25
+mkteam rennes,damien le morvan,gi,france,30.0,homme,,,,12,4,2023-10-25
+mkteam rennes,eden dheilly montreer,gi,france,18.0,homme,,,,12,4,2023-10-25
+mkteam rennes,eden dheilly montreer,no gi,france,18.0,homme,,,,10,2,2023-10-25
+mkteam rennes,emile geley,no gi,france,26.0,homme,,,,14,3,2023-10-25
+mkteam rennes,hadrien robin,no gi,france,22.0,homme,,,,12,8,2023-10-25
+mkteam rennes,jean pinel,gi,france,35.0,homme,,,,3,0,2023-10-25
+mkteam rennes,jules rongier,no gi,france,24.0,homme,,,,1,1,2023-10-25
+mkteam rennes,mathys gautrain,gi,france,23.0,homme,,,,9,4,2023-10-25
+mkteam rennes,noam aubergeon,gi,france,23.0,homme,,,,9,4,2023-10-25
+mkteam rennes,pierre sandrin,no gi,france,21.0,homme,,,,14,3,2023-10-25
+mkteam rennes,salakhouddin saytakhanov,gi,france,16.0,homme,,,,3,3,2023-10-25
+mkteam rennes,ylian amrioui,gi,france,18.0,homme,,,,7,2,2023-10-25
+moka team 443,alexis cherubin,gi,france,23.0,homme,,,,1,0,2023-10-25
+moka team 443,alvin mottais,gi,france,15.0,homme,,,,3,2,2023-10-25
+moka team 443,alvin mottais,no gi,france,15.0,homme,,,,3,0,2023-10-25
+moka team 443,antoine frappier,gi,france,21.0,homme,,,,12,4,2023-10-25
+moka team 443,brunet victor,gi,france,31.0,homme,,,,2,0,2023-10-25
+moka team 443,chamilkhan papaev,no gi,russia,16.0,homme,,,,2,3,2023-10-25
+moka team 443,damien juan,gi,france,31.0,homme,,,,2,0,2023-10-25
+moka team 443,gaël cadic,gi,france,48.0,homme,,,,1,0,2023-10-25
+moka team 443,gaëtan gommelet,gi,france,36.0,homme,,,,1,0,2023-10-25
+moka team 443,harutyun rasoyan,no gi,armenia,20.0,homme,,,,10,2,2023-10-25
+moka team 443,lucas robreau,gi,france,26.0,homme,,,,2,1,2023-10-25
+moka team 443,pierre le meur,gi,france,36.0,homme,,,,1,0,2023-10-25
+moka team 443,pierre le meur,no gi,france,36.0,homme,,,,1,0,2023-10-25
+moka team 443,ryan taine,gi,france,19.0,homme,,,,9,4,2023-10-25
+nbjja bdc,antoine rieder,no gi,france,33.0,homme,,,,3,0,2023-10-25
+nbjja bdc,camille maunoury,no gi,france,21.0,femme,,,,1,0,2023-10-25
+nbjja bdc,chloé maire,no gi,france,21.0,femme,,,,1,0,2023-10-25
+nbjja bdc,gaël le goff,no gi,france,26.0,homme,,,,3,0,2023-10-25
+nbjja bdc,laurent ailloud,no gi,france,51.0,homme,,,,1,0,2023-10-25
+nbjja bdc,mylène bessonneau,no gi,france,46.0,femme,,,,1,0,2023-10-25
+nbjja bdc,ronan maunoury,no gi,france,15.0,homme,,,,2,1,2023-10-25
+nbjja bdc,tiphaine chretien,no gi,france,28.0,femme,,,,1,0,2023-10-25
+nbjja bdc,victor perrier,no gi,france,24.0,homme,,,,12,8,2023-10-25
+nbjja bdc,virginie pointel,no gi,france,38.0,femme,,,,1,0,2023-10-25
+nbjja bdc,véronique ailloud,no gi,france,46.0,femme,,,,1,0,2023-10-25
+nbjja bdc,xavier gautier,no gi,france,45.0,homme,,,,1,0,2023-10-25
+neocortex jiujitsu,anthony boucholl,gi,france,26.0,homme,,,,13,5,2023-10-25
+neocortex jiujitsu,anthony boucholl,no gi,france,26.0,homme,,,,14,3,2023-10-25
+neocortex jiujitsu,william mosta,no gi,france,38.0,homme,,,,1,0,2023-10-25
+nja | nagare jiu-jitsu academy,eric jacquemin,gi,france,37.0,homme,,,,1,0,2023-10-25
+nja | nagare jiu-jitsu academy,louis kerautret,no gi,france,25.0,homme,,,,7,1,2023-10-25
+nja | nagare jiu-jitsu academy,samuel alama,no gi,france,37.0,homme,,,,1,0,2023-10-25
+nja | nagare jiu-jitsu academy,swann rouvier,no gi,france,31.0,homme,,,,1,1,2023-10-25
+nostang breizh'il jjb,arthur mengual,gi,france,34.0,homme,,,,2,0,2023-10-25
+nostang breizh'il jjb,lucas metivier,gi,france,22.0,homme,,,,13,5,2023-10-25
+nostang breizh'il jjb,osvaldo l. labrada,no gi,cuba,44.0,homme,,,,1,0,2023-10-25
+origine jujitsu,benoit le briand,gi,france,30.0,homme,,,,1,0,2023-10-25
+origine jujitsu,benoit le briand,no gi,france,30.0,homme,,,,1,1,2023-10-25
+origine jujitsu,julien ang cho,gi,france,43.0,homme,,,,1,0,2023-10-25
+origine jujitsu,leo vandenkerckhove,gi,france,23.0,homme,,,,12,4,2023-10-25
+origine jujitsu,maodann andrieux,gi,france,18.0,homme,,,,6,0,2023-10-25
+origine jujitsu,maodann andrieux,no gi,france,18.0,homme,,,,6,0,2023-10-25
+origine jujitsu,thomas trontin,gi,france,33.0,homme,,,,2,0,2023-10-25
+origine jujitsu,thomas trontin,no gi,france,33.0,homme,,,,1,0,2023-10-25
+pennarbed jjb,anatole isch,no gi,france,28.0,homme,,,,1,0,2023-10-25
+pennarbed jjb,bonizec antoine,gi,france,22.0,homme,,,,6,0,2023-10-25
+pennarbed jjb,bonizec antoine,no gi,france,22.0,homme,,,,6,0,2023-10-25
+pennarbed jjb,eliott lhostis,no gi,france,19.0,homme,,,,14,3,2023-10-25
+pennarbed jjb,félix pierrès,no gi,france,19.0,homme,,,,14,3,2023-10-25
+pennarbed jjb,nino mazevet,no gi,france,19.0,homme,,,,5,3,2023-10-25
+pennarbed jjb,paul blottiere,no gi,france,35.0,homme,,,,10,2,2023-10-25
+pennarbed jjb,prenveille axel,gi,france,36.0,homme,,,,1,0,2023-10-25
+pennarbed jjb,prenveille axel,no gi,france,36.0,homme,,,,1,0,2023-10-25
+pennarbed jjb,racault benjamin,gi,france,38.0,homme,,,,12,4,2023-10-25
+pompomgalli,benjamin ohier,gi,france,32.0,homme,,,,1,1,2023-10-25
+pompomgalli,christopher marquez,gi,france,27.0,homme,,,,7,2,2023-10-25
+pompomgalli,christopher marquez,no gi,france,27.0,homme,,,,7,1,2023-10-25
+pompomgalli,jullian guerin,gi,france,23.0,homme,,,,13,5,2023-10-25
+pompomgalli,jullian guerin,no gi,france,23.0,homme,,,,14,3,2023-10-25
+pompomgalli,lucsuworna hellard,gi,france,28.0,homme,,,,6,0,2023-10-25
+pompomgalli,lucsuworna hellard,no gi,france,28.0,homme,,,,6,0,2023-10-25
+pompomgalli,tudgual maleuvre,gi,france,32.0,homme,,,,13,5,2023-10-25
+pompomgalli,yelhem ahcene-le caroff,gi,france,16.0,homme,,,,2,1,2023-10-25
+process,arthur fievre,gi,france,21.0,homme,,,,9,4,2023-10-25
+process,arthur fievre,no gi,france,21.0,homme,,,,12,8,2023-10-25
+process,quentin folio,gi,france,29.0,homme,,,,12,4,2023-10-25
+project team jjb,damien negre,gi,france,38.0,homme,,,,3,0,2023-10-25
+respire jiu-jitsu breizh,arnaud eymin,gi,france,34.0,homme,,,,2,0,2023-10-25
+respire jiu-jitsu breizh,félicien de boerdère,gi,france,34.0,homme,,,,3,0,2023-10-25
+respire jiu-jitsu breizh,félicien de boerdère,no gi,france,34.0,homme,,,,2,0,2023-10-25
+respire jiu-jitsu breizh,hugo kermorvant,gi,france,24.0,homme,,,,13,5,2023-10-25
+respire jiu-jitsu breizh,hugo kermorvant,no gi,france,24.0,homme,,,,12,8,2023-10-25
+respire jiu-jitsu breizh,tristan le toux,gi,france,34.0,homme,,,,6,0,2023-10-25
+respire jiu-jitsu breizh,tristan le toux,no gi,france,34.0,homme,,,,6,0,2023-10-25
+rio de l arrée,lucas barrault,gi,france,31.0,homme,,,,6,0,2023-10-25
+rio de l arrée,lucas barrault,no gi,france,31.0,homme,,,,6,0,2023-10-25
+rio de l arrée,steve mazé,gi,france,37.0,homme,,,,1,1,2023-10-25
+rio de l arrée,steve mazé,no gi,france,37.0,homme,,,,1,0,2023-10-25
+yoda fight school,alfred ager,no gi,france,19.0,homme,,,,7,1,2023-10-25
+yoda fight school,bruno fouquet,gi,france,50.0,homme,,,,2,0,2023-10-25
+yoda fight school,clément fresneau,no gi,france,29.0,homme,,,,12,8,2023-10-25
+yoda fight school,fabien marty,gi,france,47.0,homme,,,,1,0,2023-10-25
+yoda fight school,fabio blondet,no gi,france,16.0,homme,,,,3,0,2023-10-25
+yoda fight school,gontran fauquereau,gi,france,20.0,homme,,,,2,2,2023-10-25
+yoda fight school,gontran fauquereau,no gi,france,20.0,homme,,,,2,2,2023-10-25
+yoda fight school,hans david,no gi,france,26.0,homme,,,,2,1,2023-10-25
+yoda fight school,hermann chapelle,no gi,france,43.0,homme,,,,1,0,2023-10-25
+yoda fight school,hugo spindler,gi,france,20.0,homme,,,,1,1,2023-10-25
+yoda fight school,hugo spindler,no gi,france,20.0,homme,,,,2,1,2023-10-25
+yoda fight school,ilann fouquet,gi,france,20.0,homme,,,,7,2,2023-10-25
+yoda fight school,kedly achille,gi,france,25.0,homme,,,,1,1,2023-10-25
+yoda fight school,kedly achille,no gi,france,25.0,homme,,,,2,3,2023-10-25
+yoda fight school,kevin daguene,no gi,france,30.0,homme,,,,10,2,2023-10-25
+yoda fight school,laurent norbal,no gi,france,38.0,homme,,,,1,0,2023-10-25
+yoda fight school,loan soutrel,no gi,france,23.0,homme,,,,10,2,2023-10-25
+yoda fight school,lorick fouquet,gi,france,18.0,homme,,,,4,0,2023-10-25
+yoda fight school,madjid benhassen,gi,france,26.0,homme,,,,2,2,2023-10-25
+yoda fight school,madjid benhassen,no gi,france,26.0,homme,,,,3,0,2023-10-25
+yoda fight school,many chapeau-kea,gi,france,15.0,homme,,,,2,1,2023-10-25
+yoda fight school,many chapeau-kea,no gi,france,15.0,homme,,,,2,1,2023-10-25
+yoda fight school,neil thoman,no gi,france,16.0,homme,,,,2,1,2023-10-25
+yoda fight school,sedekon eliot daud,gi,france,20.0,homme,,,,12,4,2023-10-25
+yoda fight school,sedekon eliot daud,no gi,france,20.0,homme,,,,10,2,2023-10-25
+yoda fight school,simon largeau,no gi,france,26.0,homme,,,,12,8,2023-10-25
+yoda fight school,victor véran,gi,france,19.0,homme,,,,12,4,2023-10-25
+yoda fight school,victor véran,no gi,france,19.0,homme,,,,10,2,2023-10-25
+yoda fight school,william tavares,gi,france,24.0,homme,,,,12,4,2023-10-25
+yoda fight school,yoan garrot,gi,france,26.0,homme,,,,13,5,2023-10-25
+yoda fight school,yoan garrot,no gi,france,26.0,homme,,,,14,3,2023-10-25
+yoda fight school,yohan chouteau,gi,france,29.0,homme,,,,7,2,2023-10-25
+zen-do,hugo oriol,gi,france,20.0,homme,,,,12,4,2023-10-25
+zr team rca,adnane gadjiev,no gi,france,20.0,homme,,,,14,3,2023-10-25
+zr team rca,arthur benoit,no gi,france,30.0,homme,,,,3,0,2023-10-25
+zr team rca,arthur calvez,gi,france,20.0,homme,,,,2,1,2023-10-25
+zr team rca,benjamin têtard,gi,france,29.0,homme,,,,1,0,2023-10-25
+zr team rca,briac le neel,no gi,france,24.0,homme,,,,14,3,2023-10-25
+zr team rca,charles guignans,gi,france,36.0,homme,,,,1,0,2023-10-25
+zr team rca,duncan goldschild,no gi,france,25.0,homme,,,,14,3,2023-10-25
+zr team rca,erwan guillard,no gi,france,35.0,homme,,,,5,3,2023-10-25
+zr team rca,erwann monot,no gi,france,20.0,homme,,,,12,8,2023-10-25
+zr team rca,esmir sykaj,gi,albania,26.0,homme,,,,4,0,2023-10-25
+zr team rca,fatih tiroglu,no gi,france,22.0,homme,,,,7,1,2023-10-25
+zr team rca,fred moke,no gi,central african republic,26.0,homme,,,,14,3,2023-10-25
+zr team rca,gaetan hengbart,gi,france,42.0,homme,,,,1,0,2023-10-25
+zr team rca,kevin kelmendi,gi,france,16.0,homme,,,,3,3,2023-10-25
+zr team rca,matheo guermah,no gi,france,29.0,homme,,,,5,3,2023-10-25
+zr team rca,matthieu camus,gi,france,26.0,homme,,,,1,0,2023-10-25
+zr team rca,matthieu camus,no gi,france,26.0,homme,,,,1,0,2023-10-25
+zr team rca,minkail moussaev,gi,france,23.0,homme,,,,13,5,2023-10-25
+zr team rca,naxandre hengbart,gi,france,15.0,homme,,,,1,0,2023-10-25
+zr team rca,nicolas agraffel,no gi,france,21.0,homme,,,,12,8,2023-10-25
+zr team rca,oscar murkin,gi,belgium,23.0,homme,,,,9,4,2023-10-25
+zr team rca,prefene ligeon,gi,france,24.0,homme,,,,9,4,2023-10-25
+zr team rca,saïd kaddour,gi,algeria,23.0,homme,,,,13,5,2023-10-25
+zr team rca,titouan josselin,gi,france,21.0,homme,,,,2,1,2023-10-25
+zr team rca,tom havet,gi,france,25.0,homme,,,,12,4,2023-10-25
+zr team rca,tom havet,no gi,france,25.0,homme,,,,10,2,2023-10-25
+zr team rca,victor pann,gi,france,21.0,homme,,,,12,4,2023-10-25
+(no academy),hugo vannier,no gi,france,22.0,homme,,,,1,3,2023-10-24
+academie pythagore,franck geslin,gi,france,43.0,homme,,,,1,0,2023-10-24
+academie pythagore,julien guillet,gi,france,46.0,homme,,,,1,0,2023-10-24
+academie pythagore,petru alesandrini,gi,france,46.0,homme,,,,1,0,2023-10-24
+academie pythagore,tristan vassal,no gi,france,25.0,homme,,,,12,4,2023-10-24
+acsn,iwen chevalier,no gi,france,22.0,homme,,,,11,5,2023-10-24
+acsn,robin flanet,no gi,france,19.0,homme,,,,5,1,2023-10-24
+apc29,islahidine mohamed,no gi,france,20.0,homme,,,,10,2,2023-10-24
+apc29,serhii borysov,gi,ukraine,24.0,homme,,,,7,3,2023-10-24
+apc29,serhii borysov,no gi,ukraine,24.0,homme,,,,11,5,2023-10-24
+arjjb- bretagne,harutyun brutyan,gi,armenia,19.0,homme,,,,12,4,2023-10-24
+arjjb- bretagne,harutyun brutyan,no gi,armenia,19.0,homme,,,,12,4,2023-10-24
+arjjb- bretagne,jonathan pinard,gi,france,24.0,homme,,,,7,3,2023-10-24
+arjjb- bretagne,jonathan pinard,no gi,france,24.0,homme,,,,11,5,2023-10-24
+arjjb- bretagne,jordan vorn,no gi,france,18.0,homme,,,,2,2,2023-10-24
+arjjb- bretagne,thibaut cros,gi,france,38.0,homme,,,,1,1,2023-10-24
+association lavalloise d’arts martiaux,adam bouras,no gi,algeria,19.0,homme,,,,1,2,2023-10-24
+brazilian sport club,aurélie navoret,gi,france,45.0,femme,,,,1,0,2023-10-24
+brazilian sport club,gaetan boeuf-zouaillec,gi,france,18.0,homme,,,,2,2,2023-10-24
+brazilian sport club,gaetan boeuf-zouaillec,no gi,france,18.0,homme,,,,10,2,2023-10-24
+brazilian sport club,lionel navoret,gi,france,49.0,homme,,,,2,0,2023-10-24
+brazilian sport club,louise penin,gi,france,15.0,femme,,,,1,0,2023-10-24
+gant hermine vannetais,david medar,no gi,france,30.0,homme,,,,2,0,2023-10-24
+gant hermine vannetais,julien corvaisier,gi,france,28.0,homme,,,,2,0,2023-10-24
+gant hermine vannetais,julien corvaisier,no gi,france,28.0,homme,,,,1,0,2023-10-24
+gf team france,alexandre louyrette,gi,france,44.0,homme,,,,1,0,2023-10-24
+hors normes bjj rennes,abdullah magomedov,gi,france,16.0,homme,,,,3,2,2023-10-24
+hors normes bjj rennes,abdullah magomedov,no gi,france,16.0,homme,,,,2,0,2023-10-24
+hors normes bjj rennes,christmann benoit,gi,france,42.0,homme,,,,1,0,2023-10-24
+hors normes bjj rennes,corentin cahen,gi,france,33.0,homme,,,,2,0,2023-10-24
+hors normes bjj rennes,daniial abdulov,no gi,france,26.0,homme,,,,3,0,2023-10-24
+hors normes bjj rennes,djibril ahmed hasan,gi,france,18.0,homme,,,,4,0,2023-10-24
+hors normes bjj rennes,djibril ahmed hasan,no gi,france,18.0,homme,,,,1,0,2023-10-24
+hors normes bjj rennes,eric châtelet,gi,france,23.0,homme,,,,1,0,2023-10-24
+hors normes bjj rennes,evan journet,gi,france,16.0,homme,,,,3,2,2023-10-24
+hors normes bjj rennes,ilan david,gi,france,16.0,homme,,,,2,1,2023-10-24
+hors normes bjj rennes,ilan david,no gi,france,16.0,homme,,,,1,4,2023-10-24
+hors normes bjj rennes,jules maury,no gi,france,21.0,homme,,,,12,4,2023-10-24
+hors normes bjj rennes,louison paty,gi,france,28.0,homme,,,,2,2,2023-10-24
+hors normes bjj rennes,nasroullah cabdou,gi,france,18.0,homme,,,,12,4,2023-10-24
+hors normes bjj rennes,victor de buck,gi,france,27.0,homme,,,,4,0,2023-10-24
+icon jiu jitsu team,aurélien lefillastre,gi,france,28.0,homme,,,,6,0,2023-10-24
+icon jiu jitsu team,benjamin costa,gi,france,34.0,homme,,,,1,1,2023-10-24
+icon jiu jitsu team,emmanuel esnol chaurin,gi,france,35.0,homme,,,,12,4,2023-10-24
+icon jiu jitsu team,nathan gardet,gi,france,33.0,homme,,,,7,2,2023-10-24
+icon jiu jitsu team,oscar gicquel,gi,france,21.0,homme,,,,12,4,2023-10-24
+icon jiu jitsu team,stephane guilloteau,gi,france,52.0,homme,,,,1,0,2023-10-24
+jjb fight club impact ploeren,lewellyn loxq guingueno,gi,france,29.0,homme,,,,7,2,2023-10-24
+jjb fight club impact ploeren,lewellyn loxq guingueno,no gi,france,29.0,homme,,,,5,1,2023-10-24
+judo plaisir 56,antoine le solliec,gi,france,53.0,homme,,,,1,0,2023-10-24
+judo plaisir 56,antoine le solliec,no gi,france,53.0,homme,,,,1,0,2023-10-24
+judo plaisir 56,lénaïc le solliec,gi,france,17.0,femme,,,,1,0,2023-10-24
+judo plaisir 56,lénaïc le solliec,no gi,france,17.0,femme,,,,1,0,2023-10-24
+judo plaisir 56,matthieu boidin,gi,france,27.0,homme,,,,2,0,2023-10-24
+judo plaisir 56,morgane le solliec,gi,france,15.0,femme,,,,1,1,2023-10-24
+judo plaisir 56,morgane le solliec,no gi,france,15.0,femme,,,,1,0,2023-10-24
+judo plaisir 56,yann rouxel,no gi,france,55.0,homme,,,,1,0,2023-10-24
+kabuto,martin gouyette,gi,france,32.0,homme,,,,12,4,2023-10-24
+kabuto,martin gouyette,no gi,france,32.0,homme,,,,2,0,2023-10-24
+kabuto fight team,joan le bescond,gi,france,25.0,homme,,,,2,1,2023-10-24
+kabuto fight team,joan le bescond,no gi,france,25.0,homme,,,,5,1,2023-10-24
+maccabi paris,tom paugam,no gi,france,22.0,homme,,,,6,0,2023-10-24
+mb academy,romain calvez,gi,france,26.0,homme,,,,7,3,2023-10-24
+mb academy,romain calvez,no gi,france,26.0,homme,,,,11,5,2023-10-24
+mkteam,titouan bian,gi,france,17.0,homme,,,,1,0,2023-10-24
+mkteam,titouan bian,no gi,france,17.0,homme,,,,1,0,2023-10-24
+mkteam rennes,alex clément,gi,france,16.0,homme,,,,2,1,2023-10-24
+mkteam rennes,antoine gautrain,gi,france,26.0,homme,,,,7,2,2023-10-24
+mkteam rennes,eden dheilly montreer,gi,france,18.0,homme,,,,10,6,2023-10-24
+mkteam rennes,eden dheilly montreer,no gi,france,18.0,homme,,,,10,2,2023-10-24
+mkteam rennes,emile geley,no gi,france,26.0,homme,,,,12,4,2023-10-24
+mkteam rennes,hadrien robin,no gi,france,22.0,homme,,,,11,5,2023-10-24
+mkteam rennes,jean pinel,gi,france,35.0,homme,,,,3,0,2023-10-24
+mkteam rennes,jules rongier,no gi,france,24.0,homme,,,,1,1,2023-10-24
+mkteam rennes,mathys gautrain,gi,france,23.0,homme,,,,7,3,2023-10-24
+mkteam rennes,salakhouddin saytakhanov,gi,france,16.0,homme,,,,2,3,2023-10-24
+mkteam rennes,ylian amrioui,gi,france,18.0,homme,,,,7,2,2023-10-24
+moka team 443,alexis cherubin,gi,france,23.0,homme,,,,1,0,2023-10-24
+moka team 443,alvin mottais,gi,france,15.0,homme,,,,3,2,2023-10-24
+moka team 443,alvin mottais,no gi,france,15.0,homme,,,,2,0,2023-10-24
+moka team 443,antoine frappier,gi,france,21.0,homme,,,,10,6,2023-10-24
+moka team 443,brunet victor,gi,france,31.0,homme,,,,2,0,2023-10-24
+moka team 443,damien juan,gi,france,31.0,homme,,,,2,0,2023-10-24
+moka team 443,gaël cadic,gi,france,48.0,homme,,,,1,0,2023-10-24
+moka team 443,gaëtan gommelet,gi,france,36.0,homme,,,,1,0,2023-10-24
+moka team 443,harutyun rasoyan,no gi,armenia,20.0,homme,,,,10,2,2023-10-24
+moka team 443,lucas robreau,gi,france,26.0,homme,,,,1,2,2023-10-24
+moka team 443,pierre le meur,gi,france,36.0,homme,,,,1,0,2023-10-24
+moka team 443,pierre le meur,no gi,france,36.0,homme,,,,1,0,2023-10-24
+moka team 443,ryan taine,gi,france,19.0,homme,,,,7,3,2023-10-24
+nbjja bdc,antoine rieder,no gi,france,33.0,homme,,,,2,0,2023-10-24
+nbjja bdc,camille maunoury,no gi,france,21.0,femme,,,,1,0,2023-10-24
+nbjja bdc,chloé maire,no gi,france,21.0,femme,,,,1,0,2023-10-24
+nbjja bdc,gaël le goff,no gi,france,26.0,homme,,,,3,0,2023-10-24
+nbjja bdc,laurent ailloud,no gi,france,51.0,homme,,,,1,0,2023-10-24
+nbjja bdc,mylène bessonneau,no gi,france,46.0,femme,,,,1,0,2023-10-24
+nbjja bdc,ronan maunoury,no gi,france,15.0,homme,,,,1,2,2023-10-24
+nbjja bdc,tiphaine chretien,no gi,france,28.0,femme,,,,1,0,2023-10-24
+nbjja bdc,victor perrier,no gi,france,24.0,homme,,,,11,5,2023-10-24
+nbjja bdc,virginie pointel,no gi,france,38.0,femme,,,,1,0,2023-10-24
+nbjja bdc,véronique ailloud,no gi,france,46.0,femme,,,,1,0,2023-10-24
+nbjja bdc,xavier gautier,no gi,france,45.0,homme,,,,1,0,2023-10-24
+neocortex jiujitsu,anthony boucholl,gi,france,26.0,homme,,,,12,4,2023-10-24
+neocortex jiujitsu,anthony boucholl,no gi,france,26.0,homme,,,,12,4,2023-10-24
+neocortex jiujitsu,william mosta,no gi,france,38.0,homme,,,,1,0,2023-10-24
+nja | nagare jiu-jitsu academy,eric jacquemin,gi,france,37.0,homme,,,,1,0,2023-10-24
+nja | nagare jiu-jitsu academy,louis kerautret,no gi,france,25.0,homme,,,,5,1,2023-10-24
+nja | nagare jiu-jitsu academy,mathieu le guillou,gi,france,40.0,homme,,,,1,0,2023-10-24
+nja | nagare jiu-jitsu academy,samuel alama,no gi,france,37.0,homme,,,,1,0,2023-10-24
+nja | nagare jiu-jitsu academy,swann rouvier,no gi,france,31.0,homme,,,,1,1,2023-10-24
+nostang breizh'il jjb,arthur mengual,gi,france,34.0,homme,,,,2,0,2023-10-24
+nostang breizh'il jjb,lucas metivier,gi,france,22.0,homme,,,,12,4,2023-10-24
+nostang breizh'il jjb,osvaldo l. labrada,no gi,cuba,44.0,homme,,,,1,0,2023-10-24
+origine jujitsu,benoit le briand,gi,france,30.0,homme,,,,1,0,2023-10-24
+origine jujitsu,benoit le briand,no gi,france,30.0,homme,,,,1,1,2023-10-24
+origine jujitsu,julien ang cho,gi,france,43.0,homme,,,,1,0,2023-10-24
+origine jujitsu,leo vandenkerckhove,gi,france,23.0,homme,,,,10,6,2023-10-24
+origine jujitsu,maodann andrieux,gi,france,18.0,homme,,,,6,0,2023-10-24
+origine jujitsu,maodann andrieux,no gi,france,18.0,homme,,,,6,0,2023-10-24
+origine jujitsu,thomas trontin,gi,france,33.0,homme,,,,2,0,2023-10-24
+origine jujitsu,thomas trontin,no gi,france,33.0,homme,,,,1,0,2023-10-24
+pennarbed jjb,anatole isch,no gi,france,28.0,homme,,,,1,0,2023-10-24
+pennarbed jjb,bonizec antoine,gi,france,22.0,homme,,,,6,0,2023-10-24
+pennarbed jjb,bonizec antoine,no gi,france,22.0,homme,,,,6,0,2023-10-24
+pennarbed jjb,eliott lhostis,no gi,france,19.0,homme,,,,12,4,2023-10-24
+pennarbed jjb,félix pierrès,no gi,france,19.0,homme,,,,12,4,2023-10-24
+pennarbed jjb,nino mazevet,no gi,france,19.0,homme,,,,5,1,2023-10-24
+pennarbed jjb,paul blottiere,no gi,france,35.0,homme,,,,10,2,2023-10-24
+pennarbed jjb,prenveille axel,gi,france,36.0,homme,,,,1,0,2023-10-24
+pennarbed jjb,prenveille axel,no gi,france,36.0,homme,,,,1,0,2023-10-24
+pennarbed jjb,racault benjamin,gi,france,38.0,homme,,,,10,6,2023-10-24
+pompomgalli,benjamin ohier,gi,france,32.0,homme,,,,1,1,2023-10-24
+pompomgalli,christopher marquez,gi,france,27.0,homme,,,,7,2,2023-10-24
+pompomgalli,christopher marquez,no gi,france,27.0,homme,,,,5,1,2023-10-24
+pompomgalli,jullian guerin,gi,france,23.0,homme,,,,10,6,2023-10-24
+pompomgalli,jullian guerin,no gi,france,23.0,homme,,,,12,4,2023-10-24
+pompomgalli,lucsuworna hellard,gi,france,28.0,homme,,,,6,0,2023-10-24
+pompomgalli,lucsuworna hellard,no gi,france,28.0,homme,,,,6,0,2023-10-24
+pompomgalli,tudgual maleuvre,gi,france,32.0,homme,,,,12,4,2023-10-24
+pompomgalli,yelhem ahcene-le caroff,gi,france,16.0,homme,,,,2,1,2023-10-24
+project team jjb,damien negre,gi,france,38.0,homme,,,,3,0,2023-10-24
+respire jiu-jitsu breizh,arnaud eymin,gi,france,34.0,homme,,,,2,0,2023-10-24
+respire jiu-jitsu breizh,félicien de boerdère,gi,france,34.0,homme,,,,3,0,2023-10-24
+respire jiu-jitsu breizh,félicien de boerdère,no gi,france,34.0,homme,,,,2,0,2023-10-24
+respire jiu-jitsu breizh,hugo kermorvant,gi,france,24.0,homme,,,,12,4,2023-10-24
+respire jiu-jitsu breizh,hugo kermorvant,no gi,france,24.0,homme,,,,11,5,2023-10-24
+respire jiu-jitsu breizh,tristan le toux,gi,france,34.0,homme,,,,6,0,2023-10-24
+respire jiu-jitsu breizh,tristan le toux,no gi,france,34.0,homme,,,,6,0,2023-10-24
+rio de l arrée,lucas barrault,gi,france,31.0,homme,,,,6,0,2023-10-24
+rio de l arrée,lucas barrault,no gi,france,31.0,homme,,,,6,0,2023-10-24
+rio de l arrée,steve mazé,gi,france,37.0,homme,,,,1,1,2023-10-24
+rio de l arrée,steve mazé,no gi,france,37.0,homme,,,,1,0,2023-10-24
+yoda fight school,alfred ager,no gi,france,19.0,homme,,,,5,1,2023-10-24
+yoda fight school,bruno fouquet,gi,france,50.0,homme,,,,2,0,2023-10-24
+yoda fight school,clément fresneau,no gi,france,29.0,homme,,,,11,5,2023-10-24
+yoda fight school,fabien marty,gi,france,47.0,homme,,,,1,0,2023-10-24
+yoda fight school,gontran fauquereau,gi,france,20.0,homme,,,,2,2,2023-10-24
+yoda fight school,gontran fauquereau,no gi,france,20.0,homme,,,,2,2,2023-10-24
+yoda fight school,hans david,no gi,france,26.0,homme,,,,1,1,2023-10-24
+yoda fight school,hermann chapelle,no gi,france,43.0,homme,,,,1,0,2023-10-24
+yoda fight school,ilann fouquet,gi,france,20.0,homme,,,,7,2,2023-10-24
+yoda fight school,kevin daguene,no gi,france,30.0,homme,,,,10,2,2023-10-24
+yoda fight school,loan soutrel,no gi,france,23.0,homme,,,,10,2,2023-10-24
+yoda fight school,lorick fouquet,gi,france,18.0,homme,,,,4,0,2023-10-24
+yoda fight school,madjid benhassen,gi,france,26.0,homme,,,,2,2,2023-10-24
+yoda fight school,madjid benhassen,no gi,france,26.0,homme,,,,3,0,2023-10-24
+yoda fight school,many chapeau-kea,gi,france,15.0,homme,,,,2,1,2023-10-24
+yoda fight school,many chapeau-kea,no gi,france,15.0,homme,,,,2,1,2023-10-24
+yoda fight school,neil thoman,no gi,france,16.0,homme,,,,2,1,2023-10-24
+yoda fight school,sedekon eliot daud,gi,france,20.0,homme,,,,10,6,2023-10-24
+yoda fight school,sedekon eliot daud,no gi,france,20.0,homme,,,,10,2,2023-10-24
+yoda fight school,simon largeau,no gi,france,26.0,homme,,,,11,5,2023-10-24
+yoda fight school,victor véran,gi,france,19.0,homme,,,,10,6,2023-10-24
+yoda fight school,victor véran,no gi,france,19.0,homme,,,,10,2,2023-10-24
+yoda fight school,william tavares,gi,france,24.0,homme,,,,10,6,2023-10-24
+yoda fight school,yoan garrot,gi,france,26.0,homme,,,,12,4,2023-10-24
+yoda fight school,yoan garrot,no gi,france,26.0,homme,,,,12,4,2023-10-24
+yoda fight school,yohan chouteau,gi,france,29.0,homme,,,,7,2,2023-10-24
+zr team rca,adnane gadjiev,no gi,france,20.0,homme,,,,12,4,2023-10-24
+zr team rca,arthur calvez,gi,france,20.0,homme,,,,2,1,2023-10-24
+zr team rca,benjamin têtard,gi,france,29.0,homme,,,,1,0,2023-10-24
+zr team rca,briac le neel,no gi,france,24.0,homme,,,,12,4,2023-10-24
+zr team rca,charles guignans,gi,france,36.0,homme,,,,1,0,2023-10-24
+zr team rca,erwan guillard,no gi,france,35.0,homme,,,,5,1,2023-10-24
+zr team rca,erwann monot,no gi,france,20.0,homme,,,,11,5,2023-10-24
+zr team rca,esmir sykaj,gi,albania,26.0,homme,,,,4,0,2023-10-24
+zr team rca,fatih tiroglu,no gi,france,22.0,homme,,,,5,1,2023-10-24
+zr team rca,fred moke,no gi,central african republic,26.0,homme,,,,12,4,2023-10-24
+zr team rca,gaetan hengbart,gi,france,42.0,homme,,,,1,0,2023-10-24
+zr team rca,kevin kelmendi,gi,france,16.0,homme,,,,2,3,2023-10-24
+zr team rca,matheo guermah,no gi,france,29.0,homme,,,,5,1,2023-10-24
+zr team rca,matthieu camus,gi,france,26.0,homme,,,,1,0,2023-10-24
+zr team rca,matthieu camus,no gi,france,26.0,homme,,,,1,0,2023-10-24
+zr team rca,minkail moussaev,gi,france,23.0,homme,,,,12,4,2023-10-24
+zr team rca,naxandre hengbart,gi,france,15.0,homme,,,,1,1,2023-10-24
+zr team rca,nicolas agraffel,no gi,france,21.0,homme,,,,11,5,2023-10-24
+zr team rca,oscar murkin,gi,belgium,23.0,homme,,,,7,3,2023-10-24
+zr team rca,prefene ligeon,gi,france,24.0,homme,,,,7,3,2023-10-24
+zr team rca,saïd kaddour,gi,algeria,23.0,homme,,,,12,4,2023-10-24
+zr team rca,tom havet,gi,france,25.0,homme,,,,10,6,2023-10-24
+zr team rca,tom havet,no gi,france,25.0,homme,,,,10,2,2023-10-24
+zr team rca,victor pann,gi,france,21.0,homme,,,,10,6,2023-10-24
